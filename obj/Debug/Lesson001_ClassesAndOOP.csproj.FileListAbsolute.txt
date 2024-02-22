@@ -1,0 +1,7 @@
+E:\LessonsGB\OOP.Seminar\Lesson001_ClassesAndOOP\bin\Debug\Lesson001_ClassesAndOOP.exe.config
+E:\LessonsGB\OOP.Seminar\Lesson001_ClassesAndOOP\bin\Debug\Lesson001_ClassesAndOOP.exe
+E:\LessonsGB\OOP.Seminar\Lesson001_ClassesAndOOP\bin\Debug\Lesson001_ClassesAndOOP.pdb
+E:\LessonsGB\OOP.Seminar\Lesson001_ClassesAndOOP\obj\Debug\Lesson001_ClassesAndOOP.csproj.AssemblyReference.cache
+E:\LessonsGB\OOP.Seminar\Lesson001_ClassesAndOOP\obj\Debug\Lesson001_ClassesAndOOP.csproj.CoreCompileInputs.cache
+E:\LessonsGB\OOP.Seminar\Lesson001_ClassesAndOOP\obj\Debug\Lesson001_ClassesAndOOP.exe
+E:\LessonsGB\OOP.Seminar\Lesson001_ClassesAndOOP\obj\Debug\Lesson001_ClassesAndOOP.pdb
